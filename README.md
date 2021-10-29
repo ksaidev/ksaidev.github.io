@@ -8,4 +8,5 @@ You will also see any lint errors in the console.
 
 ### `npm run deploy`
 
-Deploys the website to github pages. Visit [ksaidev.github.io](https://ksaidev.github.io/) to see changes
+Deploys the website to github pages.
+Visit [ksaidev.github.io](https://ksaidev.github.io/) to see changes
